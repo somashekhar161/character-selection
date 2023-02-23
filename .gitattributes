@@ -1,0 +1,4 @@
+*.glb filter=lfs diff=lfs merge=lfs -text
+public/*.glb filter=lfs diff=lfs merge=lfs -text
+public/Stand_4.glb filter=lfs diff=lfs merge=lfs -text
+public/Solider.glb filter=lfs diff=lfs merge=lfs -text
